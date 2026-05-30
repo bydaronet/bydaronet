@@ -3,7 +3,7 @@
 
 <p align="center">
 Fundador de <strong>UpTech</strong> 🇦🇷 — construyo y vendo software a medida para
-empresas reales: herramientas para ISPs, sistemas de gestión y automatización
+empresas reales: plataformas para ISPs, sistemas de gestión y automatización
 que eliminan trabajo manual.
 </p>
 
@@ -26,14 +26,13 @@ que eliminan trabajo manual.
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-### 🚀 Productos que construyo
+### 🚀 Productos destacados
 | Producto | Qué resuelve |
 |----------|--------------|
-| **UpQR** | Técnicos de ISP escanean un QR en la caja de red y ven el estado óptico en vivo, alertas y clientes — sin llamar a la oficina. |
-| **UpTech MDM** | Bloquea automáticamente el TV Box del cliente en mora y lo reconecta al registrarse el pago en el CRM. Cero intervención del equipo. |
-| **UpFlow** | Plataforma de gestión multi-rubro con 5 verticales: **VetFlow** (veterinarias), **BarberFlow** (barberías), **BeautyFlow** (spa & estética), **DentistFlow** (odontología) y **ComercialFlow** (asesores comerciales). |
-| **NominaPlus** | Liquidación de sueldos y nóminas. |
-| **WaChat Analyzer** | Análisis de conversaciones de WhatsApp. |
+| **Upico4** | Plataforma para ISPs que cierra la brecha entre la **administración comercial** y el **aprovisionamiento técnico**: facturación recurrente automática, integración con pasarelas de pago, gestión de ancho de banda/aprovisionamiento por API y **ticketing (helpdesk)** integrado. |
+| **Portal de Clientes V4** | Portal de autogestión para clientes de ISP: pagos con **conciliación automática** (OCR + webhooks), estado de cuenta y soporte. |
+| **UpFlow** | Plataforma de gestión **multi-rubro** con 5 verticales: **VetFlow** (veterinarias), **BarberFlow** (barberías), **BeautyFlow** (spa & estética), **DentistFlow** (odontología) y **ComercialFlow** (asesores comerciales). |
+| **Zearch** | Buscador inmobiliario — *"el Google de las propiedades"*. |
 
 ### 💼 ¿Necesitás software a medida?
 Construyo soluciones para ISPs, comercios y pymes. Hablemos:
@@ -46,16 +45,15 @@ Construyo soluciones para ISPs, comercios y pymes. Hablemos:
 <h3 id="english">🇬🇧 English</h3>
 
 Founder of **UpTech** 🇦🇷 — I build and sell custom software for real businesses:
-ISP tooling, management systems, and automation that kills manual work. Pragmatic
+ISP platforms, management systems, and automation that kills manual work. Pragmatic
 full-stack builder (**Go · React · PostgreSQL · Docker**), 46, self-taught and
 always learning.
 
 My products are commercial (the code is private), but here is **what they solve**:
 
-- **UpQR** — ISP field techs scan a QR on a network box and see live optical status, alerts and customers.
-- **UpTech MDM** — auto-locks a delinquent customer's TV Box and reconnects it the moment payment is logged in the CRM. Zero manual work.
-- **UpFlow** — multi-vertical management platform: VetFlow (vets), BarberFlow (barbershops), BeautyFlow (spa & beauty), DentistFlow (dentists), ComercialFlow (sales reps).
-- **NominaPlus** — payroll.
-- **WaChat Analyzer** — WhatsApp conversation analytics.
+- **Upico4** — ISP platform bridging **commercial administration** and **technical provisioning**: automated recurring billing, payment-gateway integration, API-driven bandwidth/provisioning, and integrated **ticketing (helpdesk)**.
+- **Portal de Clientes V4** — ISP customer self-service portal: payments with **automatic reconciliation** (OCR + webhooks), account status, and support.
+- **UpFlow** — **multi-vertical** management platform: VetFlow (vets), BarberFlow (barbershops), BeautyFlow (spa & beauty), DentistFlow (dentists), ComercialFlow (sales reps).
+- **Zearch** — real-estate search engine, *"the Google of properties"*.
 
 Need custom software? → **bydaro@gmail.com**
